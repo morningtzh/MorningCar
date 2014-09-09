@@ -1,0 +1,1 @@
+新的MorningCar采用新的系统构架，结构更明晰，层次更清楚，更容易添加新的APP上去。同时新的MorningCar在物理层面上有了更多的连接，新的MorningCar分为三部分：car/client/server，新增的数据服务器位于阿里云，能更好的backup数据，并且将数据在后台在服务器上并行处理数据分析。新的MorningCar需要我学习更多东西来将它完成。
